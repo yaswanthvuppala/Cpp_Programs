@@ -1,0 +1,27 @@
+# Ignore common C/C++ build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+*.log
+*.gch
+*.pch
+*.stackdump
+
+# Ignore Visual Studio / VS Code settings and build folders
+.vscode/
+*.vcxproj*
+*.sln
+*.user
+*.suo
+*.ncb
+*.opensdf
+*.ipch
+*.tlog
+
+# Ignore general temporary files
+*~
+*.swp
+*.tmp
